@@ -1,3 +1,8 @@
 title: Write tests for feature C
+number: 2
+assignees:
+  - jeff@yourproject.org
+estimate: 0.75
+doable: true
 lane:
   uuid: 71bd32d7-f02c-4cdd-9f91-1e73ba9a9527

@@ -1,3 +1,8 @@
 title: Implement feature B
+number: 4
+assignees:
+  - jeff@yourproject.org
+estimate: 1.5
+doable: false
 lane:
   uuid: 27519b8d-8ad8-4558-8ea2-f128404e6f58

@@ -1,3 +1,8 @@
 title: Implement feature C
+number: 5
+assignees:
+  - jeff@yourproject.org
+estimate: 0.25
+doable: true
 lane:
   uuid: 27519b8d-8ad8-4558-8ea2-f128404e6f58
